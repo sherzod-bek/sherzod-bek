@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Sherzod Bek 👋
 
-<!--
-**sherzod-dev/sherzod-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ 
+- 🔭 I’m currently working on "Cloth Style Classification" and "3D Reconstruction".
+- 🌱 I’m currently learning 3D Reconstruction.
+- 👯 I’m looking to collaborate on.
+- 🤔 I’m looking for an internship.
+- 💬 Ask me about anything related to Computer Vision.
+- 📫 How to reach me: Facebook - @sherzodbek.uz
+- 😄 Pronouns: He/His
+- ⚡ My motto: Life Begins at the End of Your Comfort Zone
+ 
