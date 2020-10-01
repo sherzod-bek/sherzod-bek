@@ -11,4 +11,4 @@
 - ⚡ My motto: Life Begins at the End of Your Comfort Zone
  
 
-<img src="https://github-readme-stats.vercel.app/api?username=sherzod-dev&&show_icons=true&title_color=ffffff&icon_color=EDF1F2&text_color=BEC3C7&bg_color=504F4D">
+<img src="https://github-readme-stats.vercel.app/api?username=sherzod-bek&&show_icons=true&title_color=ffffff&icon_color=EDF1F2&text_color=BEC3C7&bg_color=504F4D">
