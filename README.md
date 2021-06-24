@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning "Depth from Focus/Defocus".
 - 🤔 I’m looking for an internship.
 - 💬 Ask me about anything related to Computer Vision.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/sherzodbek.uz), [Linkedin](https://https://www.linkedin.com/in/sherzodbek/)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/sherzodbek.uz), [Linkedin](https://www.linkedin.com/in/sherzodbek/)
 - 😄 Pronouns: He/His
 - ⚡ My motto: Life Begins at the End of Your Comfort Zone
  
