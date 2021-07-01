@@ -2,9 +2,8 @@
 
  
  
-- 🔭 I’m currently working on "Cloth Style Classification" and "3D Reconstruction".
-- 🌱 I’m currently learning "Depth from Focus/Defocus".
-- 🤔 I’m looking for an internship.
+- 🔭 I’m currently working on "Semantic Segmentation" and "3D Reconstruction".
+- 🌱 I’m currently doing my internship (AI and Computer Vision Engineer).
 - 💬 Ask me about anything related to Computer Vision.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sherzodbek.uz), [Linkedin](https://www.linkedin.com/in/sherzodbek/)
 - 😄 Pronouns: He/His
