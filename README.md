@@ -2,8 +2,8 @@
 
  
  
-- 🔭 I’m currently working on "Semantic Segmentation" and "3D Reconstruction".
-- 🌱 I’m currently working as AI and Computer Vision Engineer.
+- 🔭 I’m currently working on Object detection/classification, Segmentation and 3D Reconstruction.
+- 🌱 I’m currently working as AI and Computer Vision Software Engineer.
 - 💬 Ask me about anything related to Computer Vision.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/sherzodbek.uz), [Linkedin](https://www.linkedin.com/in/sherzodbek/)
 - 😄 Pronouns: He/His
