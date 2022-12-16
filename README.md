@@ -1,4 +1,4 @@
-### Hi, I'm Sherzod Bek 👋
+### Hi, I'm Sherzod 👋
 
  
  
