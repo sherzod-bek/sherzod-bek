@@ -3,8 +3,6 @@
  
  
 - 🔭 I’m currently working on AI integration with Unity (Sentis) and Motion Capture.
-- 🌱 I’m currently working as Senior AI and Computer Vision Software Engineer.
-- 💬 Ask me about anything related to Computer Vision.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sherzodbek/)
 - 😄 Pronouns: He/His
 - ⚡ My motto: Life Begins at the End of Your Comfort Zone
